@@ -1,5 +1,6 @@
 
 Weather App 🌦️
+
 A simple and responsive weather application that provides real-time weather information for any city worldwide. This project has been a comprehensive learning experience, covering each step from setup to deployment.
 
 Project Overview
